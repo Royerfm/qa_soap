@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0gY9OA3E9ek=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DETPC\\Documents\\DisParalelo1\\qa_soap\\qa_soap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DETPC\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\DETPC\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512",
+    "C:\\Users\\DETPC\\.nuget\\packages\\system.servicemodel.duplex\\4.8.1\\system.servicemodel.duplex.4.8.1.nupkg.sha512",
+    "C:\\Users\\DETPC\\.nuget\\packages\\system.servicemodel.http\\4.8.1\\system.servicemodel.http.4.8.1.nupkg.sha512",
+    "C:\\Users\\DETPC\\.nuget\\packages\\system.servicemodel.nettcp\\4.8.1\\system.servicemodel.nettcp.4.8.1.nupkg.sha512",
+    "C:\\Users\\DETPC\\.nuget\\packages\\system.servicemodel.primitives\\4.8.1\\system.servicemodel.primitives.4.8.1.nupkg.sha512",
+    "C:\\Users\\DETPC\\.nuget\\packages\\system.servicemodel.security\\4.8.1\\system.servicemodel.security.4.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

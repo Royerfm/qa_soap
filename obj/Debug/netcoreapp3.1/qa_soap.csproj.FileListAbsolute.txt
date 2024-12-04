@@ -1,0 +1,6 @@
+C:\Users\DETPC\Documents\DisParalelo1\qa_soap\obj\Debug\netcoreapp3.1\qa_soap.csproj.AssemblyReference.cache
+C:\Users\DETPC\Documents\DisParalelo1\qa_soap\obj\Debug\netcoreapp3.1\qa_soap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DETPC\Documents\DisParalelo1\qa_soap\obj\Debug\netcoreapp3.1\qa_soap.AssemblyInfoInputs.cache
+C:\Users\DETPC\Documents\DisParalelo1\qa_soap\obj\Debug\netcoreapp3.1\qa_soap.AssemblyInfo.cs
+C:\Users\DETPC\Documents\DisParalelo1\qa_soap\obj\Debug\netcoreapp3.1\qa_soap.csproj.CoreCompileInputs.cache
+C:\Users\DETPC\Documents\DisParalelo1\qa_soap\obj\Debug\netcoreapp3.1\qa_soap.sourcelink.json
